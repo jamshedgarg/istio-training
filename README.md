@@ -11,7 +11,7 @@ With Istio on OpenShift, organizations can:
 <li>Gain deep observability with metrics, logs, and tracing</li>
 <li>Enforce enterprise-grade security policies</li>
 <li>Improve application reliability without changing application code</li>
-
+<br>
 This is why Istio Service Mesh training is becoming a mandatory skill for:
 <li>OpenShift Administrators</li>
 <li>Platform Engineers</li>
