@@ -77,17 +77,18 @@ After completing this Istio Service Mesh training, learners can confidently work
 <li>Microservices Architect (Associate level)</li>
 <br>
 Organizations actively look for professionals who understand Istio OpenShift integration, not just Kubernetes basics.
-https://medium.com/@jamshedgarg79/istio-openshift-service-mesh-training-ex328-hands-on-certification-focused-99b7940331f7 
-https://share.evernote.com/note/6dff2dc6-9372-4250-3779-a8dbb00a3323 
-https://www.wattpad.com/1598440082-istio-openshift-service-mesh-training-ex328-istio 
-https://telegra.ph/ISTIO-TRAINING--OPENSHIFT-SERVICE-MESH-TRAINING-EX328--HANDS-ON-CERTIFICATION-FOCUSED-12-29 
-https://justpaste.it/istio 
-https://justpaste.it/istio-training 
-https://jamshedgarg.gumroad.com/l/istio-training 
-https://jamshedgarg.gumroad.com/l/istio-course 
-https://www.dropbox.com/scl/fi/bhs8lp75xfawuy4lwxaxf/ISTIO-TRAINING-AND-OPENSHIFT-SERVICE-MESH-TRAINING-EX328.docx?rlkey=gn6njcu84byewikkpykrt6nds&st=yfenk7ji&dl=0 
-https://www.dropbox.com/scl/fi/4kzj4ugmifqp1nz1j2p8c/Chinmay-Vadgaonkar-Istio-Certified-Associate-Istio-Service-Mesh.jpg?rlkey=6x9a03i2mdgxinegc782pz0h3&st=mcwxgop8&dl=0 
-https://www.dropbox.com/scl/fi/uakn55or0q8fqloatvp6y/Istio-Service-Mesh-Training-EX328-Certification-Training-KR-Network-Cloud-Delhi.jpg?rlkey=s3zivayi0hpr0qo86x7jelvjy&st=serfq4we&dl=0 
-https://www.dropbox.com/scl/fi/u001kn3wjzxxh8mmbazqo/Istio-Training-and-Red-Hat-OpenShift-Service-Mesh-EX328-KR-Network-Cloud.jpg?rlkey=c57s1jrrssvpvgikynl96bqlt&st=9uibsnq6&dl=0 
-https://www.dropbox.com/scl/fi/bhs8lp75xfawuy4lwxaxf/ISTIO-TRAINING-AND-OPENSHIFT-SERVICE-MESH-TRAINING-EX328.docx?rlkey=rden5emyk7c1d58r6gpi59dwq&st=65v1xwsd&dl=0 
-https://in.pinterest.com/pin/1059471881121771120 
+<br>
+<a href= "https://medium.com/@jamshedgarg79/istio-openshift-service-mesh-training-ex328-hands-on-certification-focused-99b7940331f7">Istio Service Training</a>
+<a href= "https://share.evernote.com/note/6dff2dc6-9372-4250-3779-a8dbb00a3323">Istio training</a>
+<a href="https://www.wattpad.com/1598440082-istio-openshift-service-mesh-training-ex328-istio">OpenShift Istio courses</a>
+<a href="https://telegra.ph/ISTIO-TRAINING--OPENSHIFT-SERVICE-MESH-TRAINING-EX328--HANDS-ON-CERTIFICATION-FOCUSED-12-29">EX328 Certification</a>
+<a href="https://justpaste.it/istio">EX328</a>
+<a href="https://justpaste.it/istio-training">DO328</a>
+<a href="https://jamshedgarg.gumroad.com/l/istio-training">Istio Courses</a>
+<a href="https://jamshedgarg.gumroad.com/l/istio-course">Istio Service Mesh</a>
+<a href="https://www.dropbox.com/scl/fi/bhs8lp75xfawuy4lwxaxf/ISTIO-TRAINING-AND-OPENSHIFT-SERVICE-MESH-TRAINING-EX328.docx?rlkey=gn6njcu84byewikkpykrt6nds&st=yfenk7ji&dl=0">Openshift Istio</a>
+<a href="https://www.dropbox.com/scl/fi/4kzj4ugmifqp1nz1j2p8c/Chinmay-Vadgaonkar-Istio-Certified-Associate-Istio-Service-Mesh.jpg?rlkey=6x9a03i2mdgxinegc782pz0h3&st=mcwxgop8&dl=0">Red hat Istio</a>
+<a href="https://www.dropbox.com/scl/fi/uakn55or0q8fqloatvp6y/Istio-Service-Mesh-Training-EX328-Certification-Training-KR-Network-Cloud-Delhi.jpg?rlkey=s3zivayi0hpr0qo86x7jelvjy&st=serfq4we&dl=0">Istio Training in delhi</a>
+<a href="https://www.dropbox.com/scl/fi/u001kn3wjzxxh8mmbazqo/Istio-Training-and-Red-Hat-OpenShift-Service-Mesh-EX328-KR-Network-Cloud.jpg?rlkey=c57s1jrrssvpvgikynl96bqlt&st=9uibsnq6&dl=0">EX328 Microservices</a>
+<a href="https://www.dropbox.com/scl/fi/bhs8lp75xfawuy4lwxaxf/ISTIO-TRAINING-AND-OPENSHIFT-SERVICE-MESH-TRAINING-EX328.docx?rlkey=rden5emyk7c1d58r6gpi59dwq&st=65v1xwsd&dl=0">ISTIO & OPENSHIFT SERVICE MESH</a>
+<a href="https://in.pinterest.com/pin/1059471881121771120">ISTIO & OPENSHIFT SERVICE MESH</a>
