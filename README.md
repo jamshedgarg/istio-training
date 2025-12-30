@@ -1,6 +1,7 @@
 # istio-training
-ISTIO TRAINING &amp; OPENSHIFT SERVICE MESH TRAINING (EX328) – HANDS-ON, CERTIFICATION-FOCUSED
+<h1>ISTIO TRAINING &amp; OPENSHIFT SERVICE MESH TRAINING (EX328) – HANDS-ON, CERTIFICATION-FOCUSED</h1>
 Modern cloud-native applications demand resilience, security, observability, and traffic control at scale. This is exactly where <a href= "https://krnetworkcloud.org/course/istio-openshift-service-mesh-training/">Istio Training</a> and OpenShift Service Mesh play a critical role. 
+  <h2>WHAT IS ISTIO TRAINING?</h2>
 The Istio Course & <a href= "https://krnetworkcloud.org/course/istio-openshift-service-mesh-training/">OpenShift Service Mesh Training</a> (EX328) by KR Network Cloud is designed for professionals who want real production-grade service mesh skills, not just theoretical concepts.
 This istio training focuses on hands-on implementation, troubleshooting, and certification readiness aligned with the Red Hat Certified Specialist in Building Resilient Microservices exam.
 <h3>WHY ISTIO SERVICE MESH SKILLS MATTER IN 2025</h3>
@@ -18,7 +19,7 @@ This is why Istio Service Mesh training is becoming a mandatory skill for:
 <li>SREs</li>
 <li>DevOps & Cloud Engineers</li>
 <br>
-ISTIO SERVICE MESH TRAINING – WHAT YOU ACTUALLY LEARN
+<h3>ISTIO SERVICE MESH TRAINING – WHAT YOU ACTUALLY LEARN</h3>
 This Istio Service Mesh Training is 100% practical, mapped to real enterprise use cases.
 Core Skills Covered
 •	Service Mesh architecture on OpenShift
@@ -32,7 +33,7 @@ Core Skills Covered
 <br>
 Every concept is implemented live using Istio on OpenShift, ensuring learners gain job-ready expertise.
 <br>
-EX328 – ISTIO & OPENSHIFT SERVICE MESH CERTIFICATION FOCUS
+<h3>EX328 – ISTIO & OPENSHIFT SERVICE MESH CERTIFICATION FOCUS</h3>
 This course is specifically aligned with EX328.
 You will be trained to:
 <li>Configure and manage OpenShift Service Mesh</li>
@@ -46,7 +47,7 @@ If you are searching for:
 <br>
 ➡️ This training directly addresses those goals.
 <br>
-WHO SHOULD TAKE THIS ISTIO TRAINING
+<h3>WHO SHOULD TAKE THIS ISTIO TRAINING</h3>
 This Istio training course is ideal for:
 <li>OpenShift Administrators upgrading to microservices security</li>
 <li>Kubernetes professionals entering service mesh architecture</li>
@@ -55,7 +56,7 @@ This Istio training course is ideal for:
 <li>Professionals planning EX328 certification</li>
 Even if you already know Kubernetes, this course helps you operate Istio correctly in production.
 <br>
-WHY KR NETWORK CLOUD FOR ISTIO SERVICE MESH TRAINING
+<h2>WHY KR NETWORK CLOUD FOR ISTIO SERVICE MESH TRAINING</h2>
 <br>
 KR Network Cloud focuses on skills that survive interviews and production pressure.
 What makes this training different:
@@ -66,7 +67,7 @@ What makes this training different:
 <li>Post-training career guidance</li>
 This is not a recorded content dump. This is guided, accountable learning.
 <br>
-CAREER OUTCOMES AFTER ISTIO & OPENSHIFT SERVICE MESH
+<h3>CAREER OUTCOMES AFTER ISTIO & OPENSHIFT SERVICE MESH</h3>
 <br>
 After completing this Istio Service Mesh training, learners can confidently work as:
 <li>Platform Engineer</li>
