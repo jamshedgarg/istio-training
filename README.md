@@ -67,10 +67,10 @@ What makes this training different:
 <li>Post-training career guidance</li>
 This is not a recorded content dump. This is guided, accountable learning.
 <br>
-[URL=https://www.imagebam.com/view/ME19GJV1][IMG]https://thumbs4.imagebam.com/68/e1/19/ME19GJV1_t.jpg[/IMG][/URL] 
-[URL=https://www.imagebam.com/view/ME19GJV2][IMG]https://thumbs4.imagebam.com/7a/13/7a/ME19GJV2_t.jpg[/IMG][/URL] 
-[URL=https://www.imagebam.com/view/ME19GJV3][IMG]https://thumbs4.imagebam.com/0b/08/a2/ME19GJV3_t.jpg[/IMG][/URL]
-[URL=https://www.imagebam.com/view/ME19GJV4][IMG]https://thumbs4.imagebam.com/56/96/c7/ME19GJV4_t.jpg[/IMG][/URL] 
+[URL=https://www.imagebam.com/view/ME19GJV1][IMG]https://thumbs4.imagebam.com/68/e1/19/ME19GJV1_t.jpg[/IMG]Istio Certificate[/URL] 
+[URL=https://www.imagebam.com/view/ME19GJV2][IMG]https://thumbs4.imagebam.com/7a/13/7a/ME19GJV2_t.jpg[/IMG]Istio Training[/URL] 
+[URL=https://www.imagebam.com/view/ME19GJV3][IMG]https://thumbs4.imagebam.com/0b/08/a2/ME19GJV3_t.jpg[/IMG]Istio Course in Delhi[/URL]
+[URL=https://www.imagebam.com/view/ME19GJV4][IMG]https://thumbs4.imagebam.com/56/96/c7/ME19GJV4_t.jpg[/IMG]Istio Training in Delhi[/URL] 
 <br>
 <h3>CAREER OUTCOMES AFTER ISTIO & OPENSHIFT SERVICE MESH</h3>
 <br>
