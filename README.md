@@ -67,10 +67,10 @@ What makes this training different:
 <li>Post-training career guidance</li>
 This is not a recorded content dump. This is guided, accountable learning.
 <br>
-[URL=https://www.imagebam.com/view/ME19GJV1][IMG]https://thumbs4.imagebam.com/68/e1/19/ME19GJV1_t.jpg[/IMG]Istio Certificate[/URL] 
-[URL=https://www.imagebam.com/view/ME19GJV2][IMG]https://thumbs4.imagebam.com/7a/13/7a/ME19GJV2_t.jpg[/IMG]Istio Training[/URL] 
-[URL=https://www.imagebam.com/view/ME19GJV3][IMG]https://thumbs4.imagebam.com/0b/08/a2/ME19GJV3_t.jpg[/IMG]Istio Course in Delhi[/URL]
-[URL=https://www.imagebam.com/view/ME19GJV4][IMG]https://thumbs4.imagebam.com/56/96/c7/ME19GJV4_t.jpg[/IMG]Istio Training in Delhi[/URL] 
+<a href="https://www.imagebam.com/view/ME19GJV1" target="_blank"><img src="https://thumbs4.imagebam.com/68/e1/19/ME19GJV1_t.jpg" alt="Chinmay Vadgaonkar - Istio Certified Associate - Istio Service Mesh.jpg"/>Istio Certificate</a>
+<a href="https://www.imagebam.com/view/ME19GJV2" target="_blank"><img src="https://thumbs4.imagebam.com/7a/13/7a/ME19GJV2_t.jpg" alt="Istio Service Mesh Training - EX328 Certification Training - KR Network Cloud Delhi.jpg"/>Istio Training</a>
+<a href="https://www.imagebam.com/view/ME19GJV3" target="_blank"><img src="https://thumbs4.imagebam.com/0b/08/a2/ME19GJV3_t.jpg" alt="Istio Training and Red Hat OpenShift Service Mesh - EX328 - KR Network Cloud.jpg"/>Istio Course in Delhi</a>
+<a href="https://www.imagebam.com/view/ME19GJV4" target="_blank"><img src="https://thumbs4.imagebam.com/56/96/c7/ME19GJV4_t.jpg" alt="Istio Training and Red Hat OpenShift Service Mesh - KR Network Cloud.jpg"/>Istio Training in Delhi</a>
 <br>
 <h3>CAREER OUTCOMES AFTER ISTIO & OPENSHIFT SERVICE MESH</h3>
 <br>
